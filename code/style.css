@@ -1,10 +1,10 @@
 :root {
-	--darkest-color: #06736c;
+	--darkest-color: #6db79f;
 	--lightest-color: #def3f6;
 	--highlight-color: #ffffff;
-	--bright-color-1: #1dd8ac;
-	--bright-color-2: #76c49c;
-	--bright-color-3: #7fffcc;
+	--bright-color-1: #fefefe;
+	--bright-color-2: #ffffff;
+	--bright-color-3: #ffffff;
 }
 
 body {
