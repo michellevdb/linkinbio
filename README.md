@@ -1,1 +1,1 @@
-# linkinbio
+https://michellevdb.github.io/linkinbio/
